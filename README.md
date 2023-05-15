@@ -1,0 +1,2 @@
+# sbt samples
+- an etude
